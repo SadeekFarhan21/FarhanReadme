@@ -2,6 +2,16 @@
 
 📍 Columbus, OH | 📧 sadeek.1@buckeyemail.osu.edu | 📞 (617) 939-9262
 
+Welcome to my GitHub profile! I'm a passionate data scientist and computer science enthusiast with a knack for turning raw data into meaningful insights. Check out my diverse skill set and some of the exciting projects I've been working on.
+
+## GitHub Stats
+
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhansadeek&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
+
+## Contribution Graph
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=farhansadeek&theme=github)
+
 ## Education
 
 **The Ohio State University** (2023 — Present)  
