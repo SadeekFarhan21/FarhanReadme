@@ -8,10 +8,6 @@ Welcome to my GitHub profile! I'm a passionate data scientist and computer scien
 
 ![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadeekFarhan21&show_icons=true&count_private=true&hide=prs,issues&theme=radical)
 
-## Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=SadeekFarhan21&theme=github)
-
 ## Education
 
 **The Ohio State University** (2023 — Present)  
