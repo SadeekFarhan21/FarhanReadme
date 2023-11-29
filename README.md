@@ -1,32 +1,72 @@
-## Hi there, I'm Motti 👋 
+# Farhan Sadeek
 
-I&rsquo;m an Computer Science and Mathematics Student at the Ohio State University. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
+📍 Columbus, OH | 📧 sadeek.1@buckeyemail.osu.edu | 📞 (617) 939-9262
 
-- I'm currently working as Data Analyst for [Ohio State University Knowlton School of Architechture][Ohio State University Knowlton School of Architecture].
-- I also work under professor Kelsea Best.
+## Education
 
-### Languages and Tools
+**The Ohio State University** (2023 — Present)  
+*BS in Computer Science and Mathematics (Data Analytics/Data Science/Artificial Intelligence Track)*  
+- Expected Graduation: December 2026  
+- GPA: 4.0/4.0  
+- Relevant Coursework (by May 2024): Software Components, Discrete and Applied Mathematics, Algorithms, Data Structures, Programming, Engineering Calculus, Physics
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="25" height="25" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
-</p>
+## Experience
 
-<details>
-  <summary>GitHub Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=morevolution&theme=github-dark-blue&hide_border=true" alt="Github streak" class=/>
-  </p>
-  
-  <p align="center">
-    <img alt="MoRevolution's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SadeekFarhan21&show_icons=true&hide_border=true" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeekFarhan21" />
-  </p>
-</details>
+### Data Analyst, Google AI (September 2021 – Onwards)
 
-[Augustana's Institutional Research]: https://www.augustana.edu/academics/institutional-research
-[NLP in the social sciences]: https://github.com/NLP-in-the-Social-Sciences
-[Lego]: https://github.com/MoRevolution/RobotArtDemo.git
+- Utilized Kaggle datasets for comprehensive analysis, exploring and processing over 10,000 data points.
+- Extracted actionable insights contributing to a 15% improvement in decision-making accuracy.
+- Enhanced operational efficiency by 20%, identified through a statistical analysis of key processes and workflows.
+- Employed advanced machine learning techniques, resulting in a 25% reduction in error rates and a 30% increase in overall process optimization with problem-solving skills.
+
+### Undergraduate Researcher, The Ohio State University (January 2024 – Onwards)
+
+- Conducted descriptive statistics analysis on public housing data using R and ggplot.
+- Created insightful choropleth maps to visually represent the geographical distribution of public housing.
+- Explored correlations between variables through scatter plots and profiled demographic data using bar charts.
+- Communicated findings effectively through visually appealing ggplot visualizations.
+
+### Data Science Intern, Harvard University (May 2022 – September 2022)
+
+- Led collaborative development of Harvard course for Dr. Kane, integrating R for data analysis.
+- Conducted a 4-week training program to enhance participants' skills in utilizing R.
+- Independently researched the impact of economic indices on population dynamics.
+- Provided valuable insights into the intricate relationship between economic indicators and population trends.
+
+## Awards
+
+- **Hack I/O Winner (November 2023):**
+  - Developed a stock data analysis project that integrates OpenAI API, yfinance, plotly, and pandas libraries.
+  - Deployed using streamlit for a user-friendly interface, with the primary objective of incorporating machine learning algorithms for predicting economic trends.
+
+## Projects
+
+### AssetAtlass
+
+- Architected a scalable stock trading platform with Python and Streamlit.
+- Developed a metrics service for live market monitoring and autoscaling using mathematical software.
+- Designed an intuitive UI for easy trading and API key management.
+- Implemented a custom trade load balancer for high availability.
+
+### Netflix Analytics
+
+- Designed and implemented Netflix analytics dashboard using Tableau.
+- Provided real-time insights into user behavior, content performance, and engagement metrics.
+- Integrated data sources, ensuring scalability and security, and implemented predictive analytics for forecasting.
+- Improved decision-making through user-friendly, interactive visualizations; trained staff for effective dashboard utilization.
+
+## Skills
+
+### Languages
+
+C++, C, Python, R, Java, JavaScript, HTML, CSS, SQL
+
+### Libraries & Tools
+
+Boost, Flask, Django, FastAPI, NLTK, PyTorch, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, tidyverse, SpringBoot, Microsoft Azure, SQL Server, Data Analytics, Data Modeling, JIRA, Tableau, Power BI, OAuth, MongoDB, AWS
+
+## Certification
+
+**Google Data Analytics Certification:**
+Achieved the Google Data Analytics Professional Certificate on Coursera, showcasing proficiency in R, SQL, and Tableau.
+Applied advanced skills in exploratory data analysis, feature engineering, modeling, and data visualization through a comprehensive capstone project.
