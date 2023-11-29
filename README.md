@@ -69,14 +69,34 @@ Welcome to my GitHub profile! I'm a passionate data scientist and computer scien
 
 ### Languages
 
-C++, C, Python, R, Java, JavaScript, HTML, CSS, SQL
+- **Proficient:** C++, C, Python, R, Java, JavaScript
+- **Familiar:** HTML, CSS, SQL
+- **Exploring:** TypeScript, Go, Kotlin, Swift, Ruby
 
 ### Libraries & Tools
 
-Boost, Flask, Django, FastAPI, NLTK, PyTorch, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, tidyverse, SpringBoot, Microsoft Azure, SQL Server, Data Analytics, Data Modeling, JIRA, Tableau, Power BI, OAuth, MongoDB, AWS
+- **Frameworks:** Boost, Flask, Django, FastAPI
+- **NLP:** NLTK, SpaCy
+- **Machine Learning:** PyTorch, Tensorflow, Scikit-Learn, XGBoost
+- **Data Analysis:** Pandas, NumPy, Dask
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, ggplot2
+- **Web Development:** SpringBoot, React, Vue.js
+- **Cloud Services:** Microsoft Azure, AWS, Google Cloud Platform
+- **Database Management:** SQL Server, MongoDB, MySQL
+- **Big Data Technologies:** Apache Spark, Hadoop
+- **Testing:** JUnit, Pytest, Selenium
+- **DevOps:** Docker, Kubernetes, Ansible
+- **CI/CD:** Jenkins, Travis CI, CircleCI
+- **Version Control:** Git, GitHub Actions, Bitbucket
+- **Project Management:** JIRA, Trello, Asana
+- **BI Tools:** Tableau, Power BI, Looker, Metabase
+- **Authentication:** OAuth, JWT
+- **Web Scraping:** BeautifulSoup, Scrapy
+- **Mobile App Development:** Flutter, React Native
+- **Networking:** RESTful APIs, GraphQL
+- **Security:** SSL/TLS, OWASP Principles
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
 
-## Certification
+Feel free to connect with me on [LinkedIn](Your LinkedIn Profile Link) and explore more of my projects on my [portfolio](Your Portfolio Link).
 
-**Google Data Analytics Certification:**
-Achieved the Google Data Analytics Professional Certificate on Coursera, showcasing proficiency in R, SQL, and Tableau.
-Applied advanced skills in exploratory data analysis, feature engineering, modeling, and data visualization through a comprehensive capstone project.
+Let's collaborate and build something awesome together! 🚀
