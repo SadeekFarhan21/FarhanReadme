@@ -1,9 +1,9 @@
 ## Hi there, I'm Motti 👋 
 
-I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
+I&rsquo;m an Computer Science and Mathematics Student at the Ohio State University. I enjoy solving challenging problems that exist in the realm where software, AI, and robotics converge.
 
-- I'm currently working as Data Analyst for [Augustana's Institutional Research][Augustana's Institutional Research] and John Deere (both are part-time).
-- I also work under professor Labiba Jahan researching the applications of [NLP in the social sciences][NLP in the social sciences].
+- I'm currently working as Data Analyst for [Ohio State University Knowlton School of Architechture][Ohio State University Knowlton School of Architecture].
+- I also work under professor Kelsea Best.
 
 ### Languages and Tools
 
@@ -22,8 +22,8 @@ I&rsquo;m an Engineering Physics student at Augustana College. I enjoy solving c
   </p>
   
   <p align="center">
-    <img alt="MoRevolution's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=morevolution&show_icons=true&hide_border=true" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morevolution" />
+    <img alt="MoRevolution's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SadeekFarhan21&show_icons=true&hide_border=true" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadeekFarhan21" />
   </p>
 </details>
 
